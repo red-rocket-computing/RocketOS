@@ -1,0 +1,2 @@
+obj-m := dummy.o
+dummy-y: dummy.o
